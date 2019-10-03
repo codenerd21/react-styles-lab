@@ -2,7 +2,7 @@ import React from 'react';
 import GuessPegs from '../GuessPegs/GuessPegs';
 import GuessScore from '../GuessScore/GuessScore';
 import ScoreButton from '../ScoreButton/ScoreButton';
-import styles from './GuessRow.modules.css';
+import styles from './GuessRow.module.css';
 
 const GuessRow = (props) => (
   <div className={styles.GuessRow}>
