@@ -10,7 +10,7 @@ const GuessScore = ({ score }) => {
     height: 10,
     margin: 1,
     border: '2px solid',
-    borderRadius: '50%'
+    borderRadius: '50%',
   };
 
   const pegStyles = {
